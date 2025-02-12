@@ -1,16 +1,132 @@
-## Hi there 👋
-## Has accedit a la web de Julen Gil 
-<!--
-**jgil6/jgil6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# JGIL18 WEB 🔥🧑‍🚀
+## Caracteristiques
+Sóc una persona proactiva i organitzada i responsable, amb bona interpersonal relacions. Sempre tinc la millor disposició per portar fora la meva feina. Busco un repte feina.
+## Índex  
+- [📌 Característiques](#caracteristiques)  
+- [🎮 Aficions](#aficions)  
+- [💡 Habilitats](#habilitats)  
+- [🎓 Estudis](#estudis)  
+- [📞 Contactarme](#contactarme)  
+- [📷 Fotos](#fotos)  
+- [🆔 DNI ](#dni) 
+- [💻 Fragments de Codi](#fragments-de-codi)  
+- [📊 Taula](#taula)
+  
+## Aficions
+1. Esport (gimnas, correr...)
+2. Dormir
+3. Jugar a videojocs
+4. Anar amb moto
+   
+### Habilitats  
+- Treballador
+- Serio
+- Ambicios
+## Estudis
+**ESO (Institut Montbui 2019-2023)**
 
-Here are some ideas to get you started:
+**Grau SMX (NO FINALITZAT ENCARA)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CONTACTARME 
+[http://instagram.com](url)
+
+## FOTOS 
+![FOTO MIA ](https://http2.mlstatic.com/D_NQ_NP_984244-MLM46214615312_052021-O.webp)0.
+
+## DNI 
+![Documentacio ](https://m.media-amazon.com/images/I/51+CptJDWiL._AC_UF894,1000_QL80_.jpg)
+
+## Fragments de Codi  
+Codi en línia: `print("Hola, món!")`.  
+
+Bloc de codi:  
+```python
+def salutacio():
+    print("Hola, món!")
+salutacio()
+```
+```
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+```
+```
+console.log("Hola, món!");
+```
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hola, món!\n");
+    return 0;
+}
+```
+```
+public class HolaMon {
+    public static void main(String[] args) {
+        System.out.println("Hola, món!");
+    }
+}
+```
+---
+
+# Taula
+
+Empresa |	Durada   |	Ciutat |
+-------	|   -----:   |	--------- |
+Nike	|   3mesos   |	Barcelona |
+Amazon   |   2 anys   |	Girona |
+Funosa   |   6 anys   |	Igualada |
+Parlament   |   2 anys   |	Girona |
+
+---
+
+## Zona preferiblement de treball
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            1.4574937472548015,
+            41.98206844503355
+          ],
+          [
+            2.5075858990589097,
+            41.99034002309563
+          ],
+          [
+            2.5090493579774886,
+            41.23185182465522
+          ],
+          [
+            1.487790600963649,
+            41.24289309788054
+          ],
+          [
+            1.45465073594238,
+            41.9799504783025
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
+```
+<hola>
+<a href="https://jgil6.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Visitar%20Pàgina-Click%20Aquí-blue?style=for-the-badge" alt="Botó">
+</a>
+
+
+
+
+
+.md
